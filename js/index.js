@@ -73,8 +73,8 @@ $(document).ready(function () {
                     if (status == "success") {
                         //$("#candiSucess").show();
                         //alert("Congratulations Your have been reqistered");
-                        var str ="CandidateMail.php?defaultMail="+Email;
-                        $('#candiMailSucess').load(str);
+                        var str ="CandidateMail.php?defaultMail="+email;
+                        $('#candiMailSuccess').load(str);
                     } else {
                         //$("#candiFail").show();
                         alert("Sorry But some error occured");

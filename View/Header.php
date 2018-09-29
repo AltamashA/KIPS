@@ -108,9 +108,10 @@
                                 <li><a href="#about_text">About Us</a></li>
                                 <li><a href="#service">Programs</a></li> 
                                 <li><a href="#works">Join KIPS</a></li> 
+                                <li><a href="#testimonial">Search</a></li>
                                 <li><a href="#team">Our Partners</a></li>                                             
                                 <li><a href="#contact">Contact Us</a></li>
-                                <li><a href="#testimonial">Search</a></li>
+                                
                             </ul>          
           </div><!--/.nav-collapse -->
           </div>     

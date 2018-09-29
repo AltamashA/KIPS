@@ -28,7 +28,7 @@
                 <div class="slider_caption">
                     <h2>Post Your Requirements and Find A Kaarigar</h2>
                     <p>Never Before Never Again Way To Hire People</p>
-                    <a href="#testimonial" class="slider_btn">Search Yourself</a>
+                    <a href="#testimonial" class="slider_btn">Search Kaarigar</a>
                 </div>
             </li>
 
@@ -211,31 +211,31 @@
                                 <div class="featured_slider">
                                     <!-- SINGLE SLIDE IN THE SLIDER -->
                                     <div class="single_iteam">
-                                        <a href="#"> <img src="img/feature_img1.jpg" alt="img"></a>                          
+                                        <a href="#"> <img src="img/step/STEP 1.png" alt="img" style="height: 350px;width: 500px"></a>                          
                                     </div>
                                     <!-- SINGLE SLIDE IN THE SLIDER -->
                                     <div class="single_iteam">
-                                        <a href="#"> <img src="img/feature_img1.jpg" alt="img"></a>                          
+                                        <a href="#"> <img src="img/step/STEP 2.png" alt="img" style="height: 350px;width: 500px"></a>                          
                                     </div>
                                     <!-- SINGLE SLIDE IN THE SLIDER -->
                                     <div class="single_iteam">
-                                        <a href="#"> <img src="img/about1.jpg" alt="img"></a>                           
+                                        <a href="#"> <img src="img/step/STEP 3.png" alt="img" style="height: 350px;width: 500px"></a>                           
                                     </div>
                                     <!-- SINGLE SLIDE IN THE SLIDER -->
                                     <div class="single_iteam">
+                                        <a href="#"> <img src="img/step/STEP 4.png" alt="img" style="height: 350px;width: 500px"></a>                           
+                                    </div>
+                                    <!-- SINGLE SLIDE IN THE SLIDER -->
+                                    <div class="single_iteam">
+                                        <a href="#"> <img src="img/step/STEP 5.png" alt="img" style="height: 350px;width: 500px"></a>                           
+                                    </div>
+                                    <div class="single_iteam">
+                                        <a href="#"> <img src="img/step/STEP 6.png" alt="img" style="height: 350px;width: 500px"></a>                           
+                                    </div>
+                                    <!-- SINGLE SLIDE IN THE SLIDER -->
+<!--                                    <div class="single_iteam">
                                         <a href="#"> <img src="img/feature_img1.jpg" alt="img"></a>                           
-                                    </div>
-                                    <!-- SINGLE SLIDE IN THE SLIDER -->
-                                    <div class="single_iteam">
-                                        <a href="#"> <img src="img/feature_img1.jpg" alt="img"></a>                           
-                                    </div>
-                                    <div class="single_iteam">
-                                        <a href="#"> <img src="img/feature_img1.jpg" alt="img"></a>                           
-                                    </div>
-                                    <!-- SINGLE SLIDE IN THE SLIDER -->
-                                    <div class="single_iteam">
-                                        <a href="#"> <img src="img/feature_img1.jpg" alt="img"></a>                           
-                                    </div>
+                                    </div>-->
                                 </div>
                                 <!-- END FEATURED SLIDER -->
                             </div>
@@ -398,7 +398,7 @@
                                                 </div>-->
                         <h3 class="service_title"><a href="#">For Candidates </a></h3>
                         <!--                                <h4>KIPS Vocational Employment Training Programme- ₹3999</h4>-->
-                        <p>If you are looking for Jobs.If you are looking for Jobs.If you are looking for Jobs.If you are looking for Jobs</p>
+                        <p>Join Kaarigar Indian and start getting direct employment offers.</p>
                         <!--<a href="#works" class="slider_btn">Candidate</a>-->
                     </div>
 
@@ -411,7 +411,7 @@
                                                 </div>-->
                         <h3 class="service_title"><a href="#">For Organisations</a></h3>
                         <!--                                <h4>KIPS Vocational Employment Training Programme- ₹3999</h4>-->
-                        <p>If you are looking for people to work for you.If you are looking for people to work for you.If you are looking for people to work for you.If you are looking for people to work for you</p>
+                        <p>Post your requirements and we will get you the most suitable Kaarigar from our databases.</p>
                         <!--<a href="#works" class="slider_btn">Organisation</a>-->
                     </div>
                 </div>
@@ -630,6 +630,39 @@
     </div>             
 
 </section>
+<section id="testimonial">
+    <br><br><br>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 col-md-12">
+                <!-- START SUBSCRIBE HEADING -->
+                <div class="heading">
+                    <h2 class="wow fadeInLeftBig">Search Kaarigar</h2>
+                    <p>Find yourself and your details from you unique id. </p>
+                </div>
+                <!-- BEGAIN SUBSCRIVE FORM -->
+                <form class="search_form">
+                    <div class="subscrive_group wow fadeInUp">
+                        <input class="form-control subscribe_mail" type="text" name="q" id="table_filter" placeholder="Enter your unique KIPS id">
+                        <input class="subscr_btn" type="button" value="Search" id="searchBtn">
+                    </div>
+                    
+                </form>
+      
+                
+            </div>
+            
+        </div>
+    </div>   
+    <div id="show"></div>
+</section>
+<!--<div class="container">-->
+        <div class="row>"
+            <!--<div class="col-lg-12 col-md-12">-->
+        <div id="spinner" class="spinner" style="display:none;">
+            <center>  <img id="img-spinner" src="img/ajax-loader (1).gif" alt="Loading"/></center>
+</div>
+    </div>
 <!--=========== BEGAIN TEAM SECTION ================-->
 <section id="team">
     <div class="container">
@@ -652,12 +685,12 @@
                                 <h5 class="">Hero MotoCorp India   </h5>
                                 <span>Company</span>                        
                                 <p>About Hero</p>
-                                <div class="team_social">
+<!--                                <div class="team_social">
                                     <a href="#"><i class="fa fa-facebook"></i></a>
                                     <a href="#"><i class="fa fa-twitter"></i></a>
                                     <a href="#"><i class="fa fa-google-plus"></i></a>
                                     <a href="#"><i class="fa fa-linkedin"></i></a>
-                                </div>
+                                </div>-->
                             </div>
                         </div>
                         <!-- BEGAIN SINGLE TEAM SLIDE#2 -->
@@ -669,12 +702,12 @@
                                 <h5>Hindware Ltd.</h5>
                                 <span>Company</span>                        
                                 <p>About this.</p>
-                                <div class="team_social">
+<!--                                <div class="team_social">
                                     <a href="#"><i class="fa fa-facebook"></i></a>
                                     <a href="#"><i class="fa fa-twitter"></i></a>
                                     <a href="#"><i class="fa fa-google-plus"></i></a>
                                     <a href="#"><i class="fa fa-linkedin"></i></a>
-                                </div>
+                                </div>-->
                             </div>
                         </div>
                         <!-- BEGAIN SINGLE TEAM SLIDE#3 -->
@@ -686,12 +719,12 @@
                                 <h5>Hi-Cool Refrigerations</h5>
                                 <span>Company</span>                        
                                 <p>About this.</p>
-                                <div class="team_social">
+<!--                                <div class="team_social">
                                     <a href="#"><i class="fa fa-facebook"></i></a>
                                     <a href="#"><i class="fa fa-twitter"></i></a>
                                     <a href="#"><i class="fa fa-google-plus"></i></a>
                                     <a href="#"><i class="fa fa-linkedin"></i></a>
-                                </div>
+                                </div>-->
                             </div>
                         </div>
                         <!-- BEGAIN SINGLE TEAM SLIDE#4 -->
@@ -703,12 +736,12 @@
                                 <h5>ITL Private Industrial Training Institute</h5>
                                 <span>Company</span>                        
                                 <p>About this</p>
-                                <div class="team_social">
+<!--                                <div class="team_social">
                                     <a href="#"><i class="fa fa-facebook"></i></a>
                                     <a href="#"><i class="fa fa-twitter"></i></a>
                                     <a href="#"><i class="fa fa-google-plus"></i></a>
                                     <a href="#"><i class="fa fa-linkedin"></i></a>
-                                </div>
+                                </div>-->
                             </div>
                         </div>
                         <!-- BEGAIN SINGLE TEAM SLIDE#5 -->
@@ -720,57 +753,57 @@
                                 <h5>Goyal Hardware Group</h5>
                                 <span>Company</span>                        
                                 <p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature</p>
-                                <div class="team_social">
+<!--                                <div class="team_social">
                                     <a href="#"><i class="fa fa-facebook"></i></a>
                                     <a href="#"><i class="fa fa-twitter"></i></a>
                                     <a href="#"><i class="fa fa-google-plus"></i></a>
                                     <a href="#"><i class="fa fa-linkedin"></i></a>
-                                </div>
+                                </div>-->
                             </div>
                         </div>
                         <!-- BEGAIN SINGLE TEAM SLIDE#6 -->
                         <div class="col-lg-3 col-md-3 col-sm-4">
                             <div class="single_team wow fadeInUp">
                                 <div class="team_img">
-                                    <img src="img/partner/swipe.png" alt="img">
+                                    <img src="img/partner/csure.png" alt="img">
                                 </div>
                                 <h5>CSure Group India</h5>
                                 <span>Company</span>                        
                                 <p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature</p>
-                                <div class="team_social">
+<!--                                <div class="team_social">
                                     <a href="#"><i class="fa fa-facebook"></i></a>
                                     <a href="#"><i class="fa fa-twitter"></i></a>
                                     <a href="#"><i class="fa fa-google-plus"></i></a>
                                     <a href="#"><i class="fa fa-linkedin"></i></a>
-                                </div>
+                                </div>-->
                             </div>
                         </div>
                         <!-- BEGAIN SINGLE TEAM SLIDE#7 -->
                         <div class="col-lg-3 col-md-3 col-sm-4">
                             <div class="single_team wow fadeInUp">
                                 <div class="team_img">
-                                    <img src="img/team-1.jpg" alt="img">
+                                    <img src="img/partner/sapinet.jpg" alt="img">
                                 </div>
                                 <h5>Sapient Infomedia</h5>
                                 <span>Company</span>                        
-                                <p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature</p>
-                                <div class="team_social">
+                                <p>This is about Sapient</p>
+<!--                                <div class="team_social">
                                     <a href="#"><i class="fa fa-facebook"></i></a>
                                     <a href="#"><i class="fa fa-twitter"></i></a>
                                     <a href="#"><i class="fa fa-google-plus"></i></a>
                                     <a href="#"><i class="fa fa-linkedin"></i></a>
-                                </div>
+                                </div>-->
                             </div>
                         </div>    
                         <!-- BEGAIN SINGLE TEAM SLIDE#8 -->
                         <div class="col-lg-3 col-md-3 col-sm-4">
                             <div class="single_team wow fadeInUp">
                                 <div class="team_img">
-                                    <img src="img/team-1.jpg" alt="img">
+                                    <img src="img/partner/swipe_1.png" alt="img">
                                 </div>
                                 <h5>Swipe Electronics</h5>
                                 <span>Company</span>                        
-                                <p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature</p>
+                                <p>This is about Swipe</p>
                                 <div class="team_social">
                                     <a href="#"><i class="fa fa-facebook"></i></a>
                                     <a href="#"><i class="fa fa-twitter"></i></a>
@@ -787,13 +820,13 @@
                                 </div>
                                 <h5>Sricharan Education Trust</h5>
                                 <span>Company</span>                        
-                                <p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature</p>
-                                <div class="team_social">
+                                <p>This is about Sricharan</p>
+<!--                                <div class="team_social">
                                     <a href="#"><i class="fa fa-facebook"></i></a>
                                     <a href="#"><i class="fa fa-twitter"></i></a>
                                     <a href="#"><i class="fa fa-google-plus"></i></a>
                                     <a href="#"><i class="fa fa-linkedin"></i></a>
-                                </div>
+                                </div>-->
                             </div>
                         </div>  
                         <!-- BEGAIN SINGLE TEAM SLIDE#10 -->
@@ -804,13 +837,13 @@
                                 </div>
                                 <h5>Cryptocify Financial Services India</h5>
                                 <span>Company</span>                        
-                                <p>Contrary to popular belie </p>
-                                <div class="team_social">
+                                <p>Contrary to popular belief </p>
+<!--                                <div class="team_social">
                                     <a href="#"><i class="fa fa-facebook"></i></a>
                                     <a href="#"><i class="fa fa-twitter"></i></a>
                                     <a href="#"><i class="fa fa-google-plus"></i></a>
                                     <a href="#"><i class="fa fa-linkedin"></i></a>
-                                </div>
+                                </div>-->
                             </div>
                         </div>  
                         <!-- BEGAIN SINGLE TEAM SLIDE#11 -->
@@ -821,13 +854,13 @@
                                 </div>
                                 <h5>Low Budget India Ltd.</h5>
                                 <span>Company</span>                        
-                                <p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature</p>
-                                <div class="team_social">
+                                <p>About LBI.ltd</p>
+<!--                                <div class="team_social">
                                     <a href="#"><i class="fa fa-facebook"></i></a>
                                     <a href="#"><i class="fa fa-twitter"></i></a>
                                     <a href="#"><i class="fa fa-google-plus"></i></a>
                                     <a href="#"><i class="fa fa-linkedin"></i></a>
-                                </div>
+                                </div>-->
                             </div>
                         </div>  
                         <!-- BEGAIN SINGLE TEAM SLIDE#12 -->
@@ -838,13 +871,13 @@
                                 </div>
                                 <h5>Asiatic Group India</h5>
                                 <span>Company</span>                        
-                                <p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature</p>
-                                <div class="team_social">
+                                <p>About Asiatic Group India</p>
+<!--                                <div class="team_social">
                                     <a href="#"><i class="fa fa-facebook"></i></a>
                                     <a href="#"><i class="fa fa-twitter"></i></a>
                                     <a href="#"><i class="fa fa-google-plus"></i></a>
                                     <a href="#"><i class="fa fa-linkedin"></i></a>
-                                </div>
+                                </div>-->
                             </div>
                         </div>  
                     </div>
@@ -968,42 +1001,4 @@
 <!--=========== END CONTACT FEATURE SECTION ================-->
 
 <!--=========== BEGAIN SUBSCRIBE SECTION ================-->
-<section id="testimonial">
-    <br><br><br>
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-12 col-md-12">
-                <!-- START SUBSCRIBE HEADING -->
-                <div class="heading">
-                    <h2 class="wow fadeInLeftBig">Search Yourself</h2>
-                    <p>Find yourself and your details from you unique id. </p>
-                </div>
-                <!-- BEGAIN SUBSCRIVE FORM -->
-                <form class="search_form">
-                    <div class="subscrive_group wow fadeInUp">
-                        <input class="form-control subscribe_mail" type="text" name="q" id="table_filter" placeholder="Enter your unique KIPS id">
-                        <input class="subscr_btn" type="button" value="Search" id="searchBtn">
-                    </div>
-                    
-                </form>
-      
-                
-            </div>
-            
-        </div>
-    </div>
-   
-    
-
-        <!--</div>-->
-    
-    <div id="show"></div>
-</section>
-<!--<div class="container">-->
-        <div class="row>"
-            <!--<div class="col-lg-12 col-md-12">-->
-        <div id="spinner" class="spinner" style="display:none;">
-            <center>  <img id="img-spinner" src="img/ajax-loader (1).gif" alt="Loading"/></center>
-</div>
-    </div>
     <!--</div>-->

@@ -990,7 +990,7 @@ div[data-dimension] {
 /*--------------------*/
 
 #testimonial{
-	background: none repeat scroll 0 0 #f8f8f8;
+	background: none repeat scroll 0 0 grey;
 	display: inline;
 	float: left;
 	padding: 80px 0;
